@@ -1,7 +1,7 @@
 **Name** Cholkar Rishika                                                                                                                                           
-**Companyi** CODETECH IT SOLUTIONS
-**IDi** CT4DA4343
-**Domaini** Data Analytics
+**Company** CODETECH IT SOLUTIONS
+**ID** CT4DA4343
+**Domain** Data Analytics
 **Duration** July 10th - August 10th
 **Mentor** Muzammil Ahmed
 
