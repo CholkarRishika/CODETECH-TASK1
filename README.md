@@ -12,11 +12,11 @@ A paragraph about
 ## My subheading
 djhjdbhjksnd d usjhjsdnfm 
 
-![Amazon ss](<image/"C:\Users\Preeth\OneDrive\Desktop\pic.png">)
+![Amazon ss](C:\Users\Preeth\OneDrive\Desktop\pic.png)
 
 # Another subheading
 *the paragraph
-* the second
+*the second
 
 1.RFHjbdnc
 2.jhfvgbjdn
