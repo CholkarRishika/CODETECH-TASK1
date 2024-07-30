@@ -5,6 +5,21 @@
 **Duration** July 10th - August 10th
 **Mentor** Muzammil Ahmed
 
+# Test page
+
+A paragraph about
+
+## My subheading
+djhjdbhjksnd d usjhjsdnfm 
+
+![Amazon ss](<image/"C:\Users\Preeth\OneDrive\Desktop\pic.png">)
+
+# Another subheading
+*the paragraph
+* the second
+
+1.RFHjbdnc
+2.jhfvgbjdn
 Overview of the Project
 # Exploratory-Data-Analysis-Project-EDA-
 This repository contains my Exploratory Data Analysis (EDA) project using Python Pandas. The project focuses on analyzing marathon race data sourced from Kaggle, utilizing Jupyter Notebook for coding.
