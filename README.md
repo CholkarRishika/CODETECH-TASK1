@@ -1,13 +1,21 @@
-**Name** Cholkar Rishika                                                                                                                                           
+**Name** Cholkar Rishika      
+
 **Company** CODETECH IT SOLUTIONS
+
 **ID** CT4DA4343
+
 **Domain** Data Analytics
+
 **Duration** July 10th - August 10th
+
 **Mentor** Muzammil Ahmed
 
 # Exploratory-Data-Analysis-Project-EDA-
 This repository contains my Exploratory Data Analysis (EDA) project using Python Pandas. The project analyses marathon race data sourced from Kaggle, utilizing Jupyter Notebook for coding.
 EDA is a significant step before diving into statistical modelling or machine learning, to ensure the data is what it is claimed to be and that there are no obvious errors.
+In our data-driven processes, we prioritize refining our raw data through the crucial stages of EDA (Exploratory Data Analysis). Both data pre-processing and feature engineering play pivotal roles in this endeavour. EDA involves a comprehensive range of activities, including data integration, analysis, cleaning, transformation, and dimension reduction.
+
+Data pre-processing involves cleaning and preparing raw data to facilitate feature engineering. Meanwhile, feature engineering entails employing various techniques to manipulate the data. This may include adding or removing relevant features, handling missing data, encoding variables, and dealing with categorical variables, among other tasks.
 
 
 # Overview
